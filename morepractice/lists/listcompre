@@ -1,0 +1,10 @@
+nums = [10,20,30,40,50,60]
+
+nums_double = []
+
+for n in nums:
+    nums_double.append(n*2)
+
+
+print(nums_double)
+
